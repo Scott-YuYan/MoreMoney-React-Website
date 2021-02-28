@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MoreMoney-React-Website/static/css/main.e2221297.chunk.css",
+    "main.js": "/MoreMoney-React-Website/static/js/main.79db93fc.chunk.js",
+    "main.js.map": "/MoreMoney-React-Website/static/js/main.79db93fc.chunk.js.map",
+    "runtime-main.js": "/MoreMoney-React-Website/static/js/runtime-main.2857ac49.js",
+    "runtime-main.js.map": "/MoreMoney-React-Website/static/js/runtime-main.2857ac49.js.map",
+    "static/js/2.fb213340.chunk.js": "/MoreMoney-React-Website/static/js/2.fb213340.chunk.js",
+    "static/js/2.fb213340.chunk.js.map": "/MoreMoney-React-Website/static/js/2.fb213340.chunk.js.map",
+    "static/js/3.36233312.chunk.js": "/MoreMoney-React-Website/static/js/3.36233312.chunk.js",
+    "static/js/3.36233312.chunk.js.map": "/MoreMoney-React-Website/static/js/3.36233312.chunk.js.map",
+    "index.html": "/MoreMoney-React-Website/index.html",
+    "static/css/main.e2221297.chunk.css.map": "/MoreMoney-React-Website/static/css/main.e2221297.chunk.css.map",
+    "static/js/2.fb213340.chunk.js.LICENSE.txt": "/MoreMoney-React-Website/static/js/2.fb213340.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2857ac49.js",
+    "static/js/2.fb213340.chunk.js",
+    "static/css/main.e2221297.chunk.css",
+    "static/js/main.79db93fc.chunk.js"
+  ]
+}
